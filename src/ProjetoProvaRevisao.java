@@ -15,7 +15,7 @@ public class ProjetoProvaRevisao {
         int quantidadeEleitor = scanner.nextInt();
 
         //Criando uma forma de guardar os votos
-        int[] votosRealizados = new  int[quantidadeEleitor]
+        int[] votosRealizados = new  int[quantidadeEleitor];
 
         for (int i = 0; i < quantidadeEleitor; i++) {
 
