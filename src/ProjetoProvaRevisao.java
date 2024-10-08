@@ -28,7 +28,7 @@ public class ProjetoProvaRevisao {
                 System.out.println("88 - Rodrigo");
                 System.out.println("77 - Lucas");
                 System.out.println("66 - Alessandro");
-                System.out.println("Qual o seu voto ? ");
+                System.out.println("Qual o seu vot1o ? ");
                 voto = scanner.nextInt();
             } while (voto != 99 && voto != 88 && voto != 77 && voto != 66);
 
